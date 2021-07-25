@@ -62,6 +62,13 @@ There are no native tests support in these languages. Tests are mostly written i
 * [Rune latest bug](https://twitter.com/bantg/status/1418586485725532165?s=20)
 * [Fei 800k bug bounty submission](https://medium.com/immunefi/fei-protocol-flashloan-vulnerability-postmortem-7c5dc001affb)
 
+### Tools
+
+* [Slither](https://github.com/crytic/slither)
+* [Echidna](https://github.com/crytic/echidna)
+* [Manticore](https://github.com/trailofbits/manticore)
+* [Hardhat](https://hardhat.org/)
+
 ### MEV 
 
 * [Flashbots](https://docs.flashbots.net/)
@@ -89,4 +96,4 @@ There are no native tests support in these languages. Tests are mostly written i
 * [Eth 2 bounty program](https://ethereum.org/en/eth2/get-involved/bug-bounty/)
 * [Tenderming program](https://hackerone.com/tendermint)
 * [Solana program](https://github.com/solana-labs/solana/security/policy#bounty)
-* [Poladot program](https://github.com/paritytech/polkadot/blob/master/SECURITY.md)
+* [Polkadot program](https://github.com/paritytech/polkadot/blob/master/SECURITY.md)

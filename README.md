@@ -21,6 +21,13 @@ There are no native tests support in these languages. Tests are mostly written i
 
 * [Secureum Bootcamp for Smart Contract Security Auditing](https://secureum.substack.com/p/secureum-bootcamp-for-smart-contract)
 * [OpenZeppelin Secure Development Series #1 - The Dangers of Token Integration](https://www.youtube.com/watch?v=6GaCt_lM_ak) by the awesome @tinchoabbate.
+* [OpenZeppelin Secure Development Series #2 - Strategies for Secure Access Control](https://www.youtube.com/watch?v=GjGzxmWZ5vA).
+* [OpenZeppelin Secure Development Series #3 - The dangers of Price Oracles in Smart Contracts](https://www.youtube.com/watch?v=YGO7nzpXCeA).
+* [OpenZeppelin Secure Development Series #4 - Strategies for Secure Governance with Smart Contracts](https://www.youtube.com/watch?v=GbDAmMdmh8Q).
+* [Introducción a Hacking y Seguridad de Smart Contracts en Ethereum #1](https://www.youtube.com/watch?v=sqjHodAj5Xc)
+* [Introducción a Hacking y Seguridad de Smart Contracts en Ethereum #2](https://www.youtube.com/watch?v=CEzERbkVAhk)
+* [Introducción a Ethereum Development Clase I](https://www.youtube.com/watch?v=zoJb3G8TQcE)
+* [Introducción a Ethereum Development Clase II](https://www.youtube.com/watch?v=i1IW9lK4mQw)
 
 ### Resources
 
@@ -34,6 +41,7 @@ There are no native tests support in these languages. Tests are mostly written i
 * [Blockchain Security Database](https://consensys.github.io/blockchainSecurityDB/)
 * [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf)
 * [Ethereum improvements proposals](https://eips.ethereum.org/)
+* [Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
 
 ### Defi
 
